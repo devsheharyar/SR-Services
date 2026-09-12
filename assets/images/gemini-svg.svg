@@ -1,0 +1,17 @@
+<svg width="250" height="70" viewBox="0 0 250 70" xmlns="http://www.w3.org/2000/svg">
+  <!-- Structural Tech Icon (Sleek modular blocks) -->
+  <rect x="10" y="18" width="22" height="34" fill="#00E5FF" rx="2" />
+  <rect x="36" y="18" width="10" height="34" fill="#0F172A" rx="2" />
+
+  <!-- "SR Inc" Wordmark - Crystal Clear and Bold -->
+  <text x="60" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="900" fill="#0F172A" letter-spacing="-1">
+    SR
+  </text>
+  
+  <text x="112" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="400" fill="#64748B" letter-spacing="0">
+    Inc
+  </text>
+
+  <!-- Precision Baseline -->
+  <line x1="62" y1="55" x2="175" y2="55" stroke="#00E5FF" stroke-width="3" />
+</svg>
